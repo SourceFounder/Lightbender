@@ -1,8 +1,6 @@
 # Lightbender
 
-### Shape light. Refine colour.
-
-Lightbender is a local photo editor with detailed colour controls, layers, masks, retouching tools, and local AI sky and hair selection.
+Free for personal
 
 ## Download for Windows
 
